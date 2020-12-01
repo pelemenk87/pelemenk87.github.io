@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@200&display=swap');
+
+body{
+    font-family: 'Mulish', sans-serif;
+}
+
+nav > a{
+    color: antiquewhite;
+}
+
+.bg-nav{
+    background-color: #0e4470;
+}
+
+.jumbotron{
+    background-image: url("/assets/img/lombok.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: antiquewhite;
+    
+}
+
+.jumbotron a{
+    font-weight: bold;
+}
+
+
